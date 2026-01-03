@@ -77,9 +77,8 @@ Without analyzing listing, pricing, and review data, it is difficult to optimize
 - Revenue, pricing, and sentiment analysis using SQL
 
 ## Deliverables
-- Full SQL queries and results (Notebook included in repo)
+- Full SQL queries and results (Notebook included in link)
 [View Full SQL Queries in Azure Notebook](https://drive.google.com/file/d/1cy_tHUT_pj8pyvBl11PkK56M0VHbkoL9/view?usp=sharing)
 
-- Insights documentation and visual summary for Airbnb Seattle listings (PDF included in repo)
-
+- Insights documentation and visual summary for Airbnb Seattle listings (PDF included in link)
 [View Full SQL Queries PDF](https://drive.google.com/file/d/1bMZKJ2_hu49GiNY1TnGTVhpSgiXuQifH/view?usp=sharing)
