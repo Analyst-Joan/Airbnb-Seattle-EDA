@@ -1,6 +1,6 @@
 # Airbnb Seattle Exploratory Data Analysis – SQL
 
-![Retail](Airbnb frontpg'.jpg)
+![Retail](Airbnb frontpg'.png)
 
 ## Business Problem
 Airbnb hosts and property managers need to understand **what drives revenue**, how **pricing and location influence bookings**, and which hosts maintain high guest satisfaction.  
@@ -78,8 +78,8 @@ Without analyzing listing, pricing, and review data, it is difficult to optimize
 
 ## Deliverables
 - Full SQL queries and results (Notebook included in repo)
-[View Full SQL Queries in Azure Notebook](Airbnb_SQL_Azure_Queries1.ipynb)
+[View Full SQL Queries in Azure Notebook](https://drive.google.com/file/d/1cy_tHUT_pj8pyvBl11PkK56M0VHbkoL9/view?usp=sharing)
 
 - Insights documentation and visual summary for Airbnb Seattle listings (PDF included in repo)
 
-[View Full SQL Queries PDF](SQL_Airbnb_Capstone_project.pdf)
+[View Full SQL Queries PDF](https://drive.google.com/file/d/1bMZKJ2_hu49GiNY1TnGTVhpSgiXuQifH/view?usp=sharing)
