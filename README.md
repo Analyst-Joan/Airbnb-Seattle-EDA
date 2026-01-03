@@ -1,6 +1,6 @@
 # Airbnb Seattle Exploratory Data Analysis – SQL
 
-![Retail]("Airbnb frontpg'".png)
+![Retail](Airbnb_frontpg.png)
 
 ## Business Problem
 Airbnb hosts and property managers need to understand **what drives revenue**, how **pricing and location influence bookings**, and which hosts maintain high guest satisfaction.  
